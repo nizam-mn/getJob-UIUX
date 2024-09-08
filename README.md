@@ -1,9 +1,10 @@
-getJob - Job Portal 
+# getJob-UIUX
+getJob - job portal 
+
 Our college project using ReactJS and Firebase 
 visit: https://getjob-84bbb.web.app/
 
-# getJob-UIUX
-getJob - job portal 
-UI/UX design for College project 
+UI/UX design for getJob 
 Visit the page
 https://nizam-324.github.io/getJob-UIUX/
+
