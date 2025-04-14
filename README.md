@@ -6,5 +6,5 @@ visit: https://getjob-84bbb.web.app/
 
 UI/UX design for getJob 
 Visit the page
-https://nizam-324.github.io/getJob-UIUX/
+https://nizam-mn.github.io/getJob-UIUX/
 
